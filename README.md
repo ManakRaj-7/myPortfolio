@@ -37,6 +37,10 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 4. **Projects Section** - Featured projects with links
 5. **Contact Section** - Professional contact information
 
+## 🌐 Live Demo
+
+**View the live portfolio:** [https://my-portfolio-opal-xi-71.vercel.app/](https://my-portfolio-opal-xi-71.vercel.app/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -48,8 +52,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfoliowebsite.git
-   cd portfoliowebsite
+   git clone https://github.com/ManakRaj-7/myPortfolio.git
+   cd myPortfolio
    ```
 
 2. **Open in your browser**
@@ -64,7 +68,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 ## 📁 Project Structure
 
 ```
-portfoliowebsite/
+myPortfolio/
 ├── index.html          # Main HTML file
 ├── css/
 │   └── style.css       # All styling and animations
