@@ -81,33 +81,34 @@ myPortfolio/
 
 ## 🎯 Featured Projects
 
+### AnonVerse
+- **Description**: A full-stack platform for anonymous poetry sharing with pen-name profiles and bios. Built with Next.js 14, TypeScript, and Supabase for real-time interactions, secure authentication, and responsive design
+- **Technologies**: Next.js, TypeScript, Supabase, Tailwind CSS, Vercel
+- **Live Demo**: [https://anon-verse-wl1l.vercel.app/](https://anon-verse-wl1l.vercel.app/)
+- **GitHub**: [https://github.com/ManakRaj-7/AnonVerse](https://github.com/ManakRaj-7/AnonVerse)
+
 ### MoodHub
 - **Description**: A beautiful, interactive web application that provides personalized content recommendations based on your current emotional state
 - **Technologies**: HTML, CSS, JavaScript, Vercel
 - **Live Demo**: [https://mood-hub-sandy.vercel.app/](https://mood-hub-sandy.vercel.app/)
 - **GitHub**: [https://github.com/ManakRaj-7/MoodHub](https://github.com/ManakRaj-7/MoodHub)
 
-### Snake Game
-- **Description**: A classic terminal-based Snake game implemented in Python using the curses library
-- **Technologies**: Python, curses
-- **GitHub**: [https://github.com/ManakRaj-7/SnakeGame](https://github.com/ManakRaj-7/SnakeGame)
-
 ## 🛠️ Skills & Technologies
 
 ### Frontend Skills
-- HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
 
 ### Backend Skills
-- Node.js, Express.js, Java, Spring Boot (basic)
+- Node.js, Express.js, Supabase (Auth/DB/Realtime), REST APIs
 
 ### Database Skills
-- MongoDB, MySQL
+- MongoDB, Mongoose, Supabase, MySQL
 
 ### Cloud & DevOps Skills
-- Git, GitHub, Netlify, Vercel, Render
+- Git, GitHub, Vercel, Netlify, Render, Postman
 
 ### Programming & Core Skills
-- C++, Python, Data Structures & Algorithms, REST APIs, JSON
+- C++, Java, Python, Data Structures & Algorithms, OOP, Operating Systems
 
 ## 🎨 Customization
 
