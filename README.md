@@ -1,6 +1,6 @@
 # 🌟 Manak Raj - Portfolio Website
 
-A modern, responsive portfolio website showcasing my skills, projects, and professional journey. Built with clean HTML, CSS, and JavaScript to demonstrate my frontend development capabilities.
+A modern, responsive portfolio website showcasing my projects, technical skills, and professional journey. Built with clean HTML, CSS, and JavaScript to highlight my work across full-stack development, backend systems, and machine learning projects.
 
 ## ✨ Features
 
@@ -8,8 +8,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 - **📱 Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - **⚡ Fast Performance**: Lightweight and optimized for speed
 - **🎯 Interactive Elements**: Smooth scrolling navigation and hover effects
-- **📊 Skills Showcase**: Comprehensive display of technical skills and technologies
-- **🚀 Project Portfolio**: Featured projects with live demos and GitHub links
+- **📊 Skills Showcase**: Clear categorization of frontend, backend, and core skills
+- **🚀 Project Portfolio**: Featured real-world projects with GitHub links
 - **📞 Contact Information**: Easy access to professional contact details
 
 ## 🛠️ Technologies Used
@@ -17,7 +17,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Modern styling with animations and responsive design
 - **JavaScript (ES6+)** - Interactive functionality and smooth scrolling
-- **Font Awesome** - Beautiful icons throughout the website
+- **Font Awesome** - Icons used across the website
 - **Google Fonts** - Professional typography (Poppins)
 
 ## 🎨 Design Features
@@ -25,28 +25,29 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 - **Gradient Backgrounds**: Modern purple and violet gradients
 - **Glass Morphism Effects**: Subtle backdrop blur effects
 - **Smooth Animations**: CSS transitions and keyframe animations
-- **Hover Effects**: Interactive elements with stunning hover states
+- **Hover Effects**: Interactive elements with clean hover states
 - **Responsive Grid Layout**: Flexible grid system for all screen sizes
 - **Professional Color Scheme**: Purple, violet, and pink color palette
 
 ## 📱 Sections
 
-1. **Hero Section** - Introduction and call-to-action
-2. **About Section** - Personal background and statistics
-3. **Skills Section** - Technical skills and technologies
-4. **Projects Section** - Featured projects with links
-5. **Contact Section** - Professional contact information
+1. **Hero Section** - Introduction and call-to-action  
+2. **About Section** - Professional summary and statistics  
+3. **Skills Section** - Technical skills and tools  
+4. **Projects Section** - Featured development and ML projects  
+5. **Contact Section** - Professional contact information  
 
 ## 🌐 Live Demo
 
-**View the live portfolio:** [https://my-portfolio-opal-xi-71.vercel.app/](https://my-portfolio-opal-xi-71.vercel.app/)
+**View the live portfolio:**  
+https://my-portfolio-opal-xi-71.vercel.app/
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
-- No additional software required!
+- No additional software required
 
 ### Installation
 
@@ -57,12 +58,15 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
    ```
 
 2. **Open in your browser**
-   - Double-click `index.html` or
-   - Use a local server: `python -m http.server 8000` or `npx serve`
+   - Double-click `index.html`, or
+   - Use a local server:
+     ```bash
+     python -m http.server 8000
+     ```
 
-3. **Start exploring!**
-   - Navigate through different sections
-   - Check out the projects
+3. **Start exploring**
+   - Navigate through sections
+   - Review featured projects
    - Test responsiveness on different screen sizes
 
 ## 📁 Project Structure
@@ -71,49 +75,52 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 myPortfolio/
 ├── index.html          # Main HTML file
 ├── css/
-│   └── style.css       # All styling and animations
+│   └── style.css       # Styling and animations
 ├── js/
 │   └── script.js       # JavaScript functionality
 ├── images/
 │   └── profileMine.jpg # Profile photo
-└── README.md           # This file
+└── README.md           # Documentation
 ```
 
 ## 🎯 Featured Projects
 
+### TalentFlow – Job Application & Hiring Management System
+- **Description**: A comprehensive backend REST API built with Spring Boot to manage job postings, applications, and the hiring workflow, featuring secure authentication and scalable architecture.
+- **Technologies**: Spring Boot, Java, MySQL, REST APIs, JWT Authentication, Hibernate, Swagger
+- **GitHub**: [https://github.com/ManakRaj-7/TalentFlow_Job-Application-Hiring-Management-System](https://github.com/ManakRaj-7/TalentFlow_Job-Application-Hiring-Management-System)
+
 ### AnonVerse
-- **Description**: A full-stack platform for anonymous poetry sharing with pen-name profiles and bios. Built with Next.js 14, TypeScript, and Supabase for real-time interactions, secure authentication, and responsive design
-- **Technologies**: Next.js, TypeScript, Supabase, Tailwind CSS, Vercel
+- **Description**: A full-stack platform for anonymous poetry sharing with pen-name profiles and bios, supporting secure authentication and real-time interactions.
+- **Technologies**: Next.js, TypeScript, Supabase, Tailwind CSS
 - **Live Demo**: [https://anon-verse-wl1l.vercel.app/](https://anon-verse-wl1l.vercel.app/)
 - **GitHub**: [https://github.com/ManakRaj-7/AnonVerse](https://github.com/ManakRaj-7/AnonVerse)
 
-### MoodHub
-- **Description**: A beautiful, interactive web application that provides personalized content recommendations based on your current emotional state
-- **Technologies**: HTML, CSS, JavaScript, Vercel
-- **Live Demo**: [https://mood-hub-sandy.vercel.app/](https://mood-hub-sandy.vercel.app/)
-- **GitHub**: [https://github.com/ManakRaj-7/MoodHub](https://github.com/ManakRaj-7/MoodHub)
+### Early Diabetes Detection Using ML (FUGA-Net)
+- **Description**: A comparative study of machine learning models for diabetes prediction using a large-scale dataset, introducing a novel deep learning architecture (FUGA-Net).
+- **Technologies**: Python, Machine Learning, Deep Learning, PyTorch
+- **GitHub**: [https://github.com/ManakRaj-7/early-diabetes-detection-ml-comparison](https://github.com/ManakRaj-7/early-diabetes-detection-ml-comparison)
 
 ## 🛠️ Skills & Technologies
 
 ### Frontend Skills
-- React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
+React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
 
 ### Backend Skills
-- Node.js, Express.js, Supabase (Auth/DB/Realtime), REST APIs
+Spring Boot, Node.js, Express.js, REST APIs, JWT Authentication, Hibernate, Supabase
 
 ### Database Skills
-- MongoDB, Mongoose, Supabase, MySQL
+MySQL, PostgreSQL, MongoDB, Mongoose, Supabase
 
 ### Cloud & DevOps Skills
-- Git, GitHub, Vercel, Netlify, Render, Postman
+Git, GitHub, Vercel, Netlify, Render, Postman, Swagger (OpenAPI)
 
 ### Programming & Core Skills
-- C++, Java, Python, Data Structures & Algorithms, OOP, Operating Systems
+C++, Java, Python, Go (Golang), Data Structures & Algorithms, OOP, Operating Systems
 
 ## 🎨 Customization
 
 ### Adding New Projects
-
 To add new projects, edit the `index.html` file and add a new project card in the projects section:
 
 ```html
@@ -131,9 +138,6 @@ To add new projects, edit the `index.html` file and add a new project card in th
             <span>Technology 2</span>
         </div>
         <div class="project-links">
-            <a href="your-demo-link" class="project-link" target="_blank" rel="noopener">
-                <i class="fas fa-external-link-alt"></i> Live Demo
-            </a>
             <a href="your-github-link" class="project-link" target="_blank" rel="noopener">
                 <i class="fab fa-github"></i> Code
             </a>
@@ -143,8 +147,8 @@ To add new projects, edit the `index.html` file and add a new project card in th
 ```
 
 ### Styling Changes
-
 Modify `css/style.css` to customize:
+
 - Colors and gradients
 - Animations and transitions
 - Layout and spacing
@@ -160,23 +164,23 @@ Modify `css/style.css` to customize:
 
 ## 🌟 Contributing
 
-Contributions are welcome! Here's how you can help:
+Contributions are welcome:
 
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
-- **Font Awesome** for the beautiful icons
-- **Google Fonts** for the Poppins font family
-- **All content creators** whose work inspired this portfolio
+- Font Awesome for icons
+- Google Fonts for the Poppins font family
+- Inspiration from modern developer portfolios
 
 ## 📊 Project Stats
 
@@ -189,4 +193,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by Manak Raj
 
-If you find this project helpful, please give it a ⭐ 
+If you find this project helpful, please give it a ⭐
