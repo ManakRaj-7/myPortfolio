@@ -88,35 +88,46 @@ myPortfolio/
 ### TalentFlow – Job Application & Hiring Management System
 - **Description**: A comprehensive backend REST API built with Spring Boot to manage job postings, applications, and the hiring workflow, featuring secure authentication and scalable architecture.
 - **Technologies**: Spring Boot, Java, MySQL, REST APIs, JWT Authentication, Hibernate, Swagger
-- **GitHub**: [https://github.com/ManakRaj-7/TalentFlow_Job-Application-Hiring-Management-System](https://github.com/ManakRaj-7/TalentFlow_Job-Application-Hiring-Management-System)
+- **GitHub**: https://github.com/ManakRaj-7/TalentFlow_Job-Application-Hiring-Management-System
+
+### AegisCore – Identity Authentication & Access Control
+- **Description**: A production-minded authentication and access control backend built with Go, featuring JWT authentication, refresh token rotation, role-based access control (RBAC), Redis-based logout, and clean layered architecture.
+- **Technologies**: Golang, Gin, PostgreSQL, Redis, JWT, bcrypt
+- **GitHub**: https://github.com/ManakRaj-7/AegisCore_Identity-Authentication-and-Access-Control-System
 
 ### AnonVerse
-- **Description**: A full-stack platform for anonymous poetry sharing with pen-name profiles and bios, supporting secure authentication and real-time interactions.
+- **Description**: A full-stack platform for anonymous poetry sharing with pen-name profiles and real-time interactions, built using modern web technologies.
 - **Technologies**: Next.js, TypeScript, Supabase, Tailwind CSS
-- **Live Demo**: [https://anon-verse-wl1l.vercel.app/](https://anon-verse-wl1l.vercel.app/)
-- **GitHub**: [https://github.com/ManakRaj-7/AnonVerse](https://github.com/ManakRaj-7/AnonVerse)
+- **Live Demo**: https://anon-verse-wl1l.vercel.app/
+- **GitHub**: https://github.com/ManakRaj-7/AnonVerse
 
 ### Early Diabetes Detection Using ML (FUGA-Net)
 - **Description**: A comparative study of machine learning models for diabetes prediction using a large-scale dataset, introducing a novel deep learning architecture (FUGA-Net).
 - **Technologies**: Python, Machine Learning, Deep Learning, PyTorch
-- **GitHub**: [https://github.com/ManakRaj-7/early-diabetes-detection-ml-comparison](https://github.com/ManakRaj-7/early-diabetes-detection-ml-comparison)
+- **GitHub**: https://github.com/ManakRaj-7/early-diabetes-detection-ml-comparison
+
+### Reality Weaver – Parallel Reality Generator
+- **Description**: A full-stack web application that explores alternate timelines by generating "What if?" scenarios across history and technology using a modern React frontend and a serverless backend.
+- **Technologies**: React, TypeScript, Tailwind CSS, Supabase, PostgreSQL
+- **Live Demo**: https://timeline-seed.lovable.app/
+- **GitHub**: https://github.com/ManakRaj-7/reality-weaver
 
 ## 🛠️ Skills & Technologies
 
 ### Frontend Skills
-React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
+- React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
 
 ### Backend Skills
-Spring Boot, Node.js, Express.js, REST APIs, JWT Authentication, Hibernate, Supabase
+- Spring Boot, Golang, Node.js, Express.js, REST APIs, JWT Authentication, Hibernate
 
 ### Database Skills
-MySQL, PostgreSQL, MongoDB, Mongoose, Supabase
+- MySQL, PostgreSQL, MongoDB, Mongoose, Redis
 
 ### Cloud & DevOps Skills
-Git, GitHub, Vercel, Netlify, Render, Postman, Swagger (OpenAPI)
+- Git, GitHub, Vercel, Netlify, Render, Postman, Swagger (OpenAPI)
 
 ### Programming & Core Skills
-C++, Java, Python, Go (Golang), Data Structures & Algorithms, OOP, Operating Systems
+- C++, Java, Go (Golang), Python, Data Structures & Algorithms, Object-Oriented Programming, Operating Systems
 
 ## 🎨 Customization
 
