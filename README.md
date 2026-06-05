@@ -1,207 +1,305 @@
-# 🌟 Manak Raj - Portfolio Website
+# Manak Raj – Portfolio Website
 
-A modern, responsive portfolio website showcasing my projects, technical skills, and professional journey. Built with clean HTML, CSS, and JavaScript to highlight my work across full-stack development, backend systems, and machine learning projects.
+Personal portfolio website showcasing my projects, technical skills, and software engineering work across backend development, full-stack applications, cybersecurity tooling, and machine learning.
 
-## ✨ Features
-
-- **🎨 Modern Design**: Clean, professional design with smooth animations
-- **📱 Fully Responsive**: Optimized for desktop, tablet, and mobile devices
-- **⚡ Fast Performance**: Lightweight and optimized for speed
-- **🎯 Interactive Elements**: Smooth scrolling navigation and hover effects
-- **📊 Skills Showcase**: Clear categorization of frontend, backend, and core skills
-- **🚀 Project Portfolio**: Featured real-world projects with GitHub links
-- **📞 Contact Information**: Easy access to professional contact details
-
-## 🛠️ Technologies Used
-
-- **HTML5** - Semantic markup and structure
-- **CSS3** - Modern styling with animations and responsive design
-- **JavaScript (ES6+)** - Interactive functionality and smooth scrolling
-- **Font Awesome** - Icons used across the website
-- **Google Fonts** - Professional typography (Poppins)
-
-## 🎨 Design Features
-
-- **Gradient Backgrounds**: Modern purple and violet gradients
-- **Glass Morphism Effects**: Subtle backdrop blur effects
-- **Smooth Animations**: CSS transitions and keyframe animations
-- **Hover Effects**: Interactive elements with clean hover states
-- **Responsive Grid Layout**: Flexible grid system for all screen sizes
-- **Professional Color Scheme**: Purple, violet, and pink color palette
-
-## 📱 Sections
-
-1. **Hero Section** - Introduction and call-to-action  
-2. **About Section** - Professional summary and statistics  
-3. **Skills Section** - Technical skills and tools  
-4. **Projects Section** - Featured development and ML projects  
-5. **Contact Section** - Professional contact information  
-
-## 🌐 Live Demo
-
-**View the live portfolio:**  
+Live Portfolio:
 https://my-portfolio-opal-xi-71.vercel.app/
 
-## 🚀 Getting Started
+## About
 
-### Prerequisites
+I am a Computer Science student focused on backend engineering, full-stack development, software architecture, and problem solving.
 
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- No additional software required
+My work spans:
 
-### Installation
+- Spring Boot backend systems
+- Golang services
+- MERN stack applications
+- Next.js applications
+- AI-powered software systems
+- Cybersecurity and developer tooling
+- Machine Learning research
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ManakRaj-7/myPortfolio.git
-   cd myPortfolio
-   ```
+This portfolio serves as a central hub for my projects, skills, and professional profiles.
 
-2. **Open in your browser**
-   - Double-click `index.html`, or
-   - Use a local server:
-     ```bash
-     python -m http.server 8000
-     ```
+## Technology Stack
 
-3. **Start exploring**
-   - Navigate through sections
-   - Review featured projects
-   - Test responsiveness on different screen sizes
+### Frontend
 
-## 📁 Project Structure
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+- TypeScript
 
-```
-myPortfolio/
-├── index.html          # Main HTML file
-├── css/
-│   └── style.css       # Styling and animations
-├── js/
-│   └── script.js       # JavaScript functionality
-├── images/
-│   └── profileMine.jpg # Profile photo
-└── README.md           # Documentation
-```
+### Backend
 
-## 🎯 Featured Projects
+- Spring Boot
+- Java
+- Golang
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Hibernate
 
-### TalentFlow – Job Application & Hiring Management System
-- **Description**: A comprehensive backend REST API built with Spring Boot to manage job postings, applications, and the hiring workflow, featuring secure authentication and scalable architecture.
-- **Technologies**: Spring Boot, Java, MySQL, REST APIs, JWT Authentication, Hibernate, Swagger
-- **GitHub**: https://github.com/ManakRaj-7/TalentFlow_Job-Application-Hiring-Management-System
+### Databases
 
-### AegisCore – Identity Authentication & Access Control
-- **Description**: A production-minded authentication and access control backend built with Go, featuring JWT authentication, refresh token rotation, role-based access control (RBAC), Redis-based logout, and clean layered architecture.
-- **Technologies**: Golang, Gin, PostgreSQL, Redis, JWT, bcrypt
-- **GitHub**: https://github.com/ManakRaj-7/AegisCore_Identity-Authentication-and-Access-Control-System
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
+- Mongoose
 
-### AnonVerse
-- **Description**: A full-stack platform for anonymous poetry sharing with pen-name profiles and real-time interactions, built using modern web technologies.
-- **Technologies**: Next.js, TypeScript, Supabase, Tailwind CSS
-- **Live Demo**: https://anon-verse-wl1l.vercel.app/
-- **GitHub**: https://github.com/ManakRaj-7/AnonVerse
+### Tools & Platforms
 
-### Early Diabetes Detection Using ML (FUGA-Net)
-- **Description**: A comparative study of machine learning models for diabetes prediction using a large-scale dataset, introducing a novel deep learning architecture (FUGA-Net).
-- **Technologies**: Python, Machine Learning, Deep Learning, PyTorch
-- **GitHub**: https://github.com/ManakRaj-7/early-diabetes-detection-ml-comparison
+- Git
+- GitHub
+- Postman
+- Swagger
+- Vercel
+- Netlify
+- Render
 
-### Reality Weaver – Parallel Reality Generator
-- **Description**: A full-stack web application that explores alternate timelines by generating "What if?" scenarios across history and technology using a modern React frontend and a serverless backend.
-- **Technologies**: React, TypeScript, Tailwind CSS, Supabase, PostgreSQL
-- **Live Demo**: https://timeline-seed.lovable.app/
-- **GitHub**: https://github.com/ManakRaj-7/reality-weaver
+### Core Computer Science
 
-## 🛠️ Skills & Technologies
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
 
-### Frontend Skills
-- React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript
+## Featured Projects
 
-### Backend Skills
-- Spring Boot, Golang, Node.js, Express.js, REST APIs, JWT Authentication, Hibernate
+### MedisynX – AI-Powered Healthcare Ecosystem
 
-### Database Skills
-- MySQL, PostgreSQL, MongoDB, Mongoose, Redis
+A production-oriented MERN healthcare platform designed for modern clinics and healthcare workflows.
 
-### Cloud & DevOps Skills
-- Git, GitHub, Vercel, Netlify, Render, Postman, Swagger (OpenAPI)
+Features:
 
-### Programming & Core Skills
-- C++, Java, Go (Golang), Python, Data Structures & Algorithms, Object-Oriented Programming, Operating Systems
+- Doctor authentication and authorization
+- Patient management system
+- Appointment scheduling
+- Billing workflows
+- Clinical AI assistance
+- OpenRouter integration
+- Gemini 3 Flash powered insights
+- Multi-model fallback architecture
+- Responsive dashboard experience
 
-## 🎨 Customization
+Technologies:
 
-### Adding New Projects
-To add new projects, edit the `index.html` file and add a new project card in the projects section:
+- React
+- Node.js
+- Express.js
+- MongoDB
+- OpenRouter
+- Gemini 3 Flash
+- JWT Authentication
 
-```html
-<div class="project-card">
-    <div class="project-image">
-        <div class="project-placeholder">
-            <i class="fas fa-your-icon"></i>
-        </div>
-    </div>
-    <div class="project-content">
-        <h3>Your Project Name</h3>
-        <p>Project description here...</p>
-        <div class="project-tech">
-            <span>Technology 1</span>
-            <span>Technology 2</span>
-        </div>
-        <div class="project-links">
-            <a href="your-github-link" class="project-link" target="_blank" rel="noopener">
-                <i class="fab fa-github"></i> Code
-            </a>
-        </div>
-    </div>
-</div>
-```
+Live:
+https://medisyn-x.vercel.app
 
-### Styling Changes
-Modify `css/style.css` to customize:
-
-- Colors and gradients
-- Animations and transitions
-- Layout and spacing
-- Typography
-
-## 📞 Contact Information
-
-- **Email**: 7manakraj@gmail.com
-- **LinkedIn**: [https://linkedin.com/in/manak-raj-427306282](https://linkedin.com/in/manak-raj-427306282)
-- **GitHub**: [https://github.com/ManakRaj-7](https://github.com/ManakRaj-7)
-- **Twitter/X**: [https://x.com/ManakRaj332044](https://x.com/ManakRaj332044)
-- **LeetCode**: [https://leetcode.com/u/7manakraj/](https://leetcode.com/u/7manakraj/)
-
-## 🌟 Contributing
-
-Contributions are welcome:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for the Poppins font family
-- Inspiration from modern developer portfolios
-
-## 📊 Project Stats
-
-- **Languages**: HTML, CSS, JavaScript
-- **Deployment**: Ready for GitHub Pages, Netlify, or Vercel
-- **Performance**: Optimized for fast loading
-- **Accessibility**: Semantic HTML and keyboard navigation
+GitHub:
+https://github.com/ManakRaj-7/MedisynX
 
 ---
 
-Made with ❤️ by Manak Raj
+### PackSentry – npm Supply Chain Security Tool
 
-If you find this project helpful, please give it a ⭐
+A security-focused dependency analysis tool for the npm ecosystem that helps developers identify suspicious, risky, low-trust, and potentially malicious packages before installation.
+
+Features:
+
+- Typosquatting detection
+- Known malicious package detection
+- Dangerous install script analysis
+- Suspicious shell command detection
+- Dependency trust evaluation
+- Package popularity analysis
+- Package age analysis
+- Security scoring engine
+- Local dependency scanning
+
+Technologies:
+
+- Node.js
+- JavaScript
+- Axios
+- Chalk
+- Ora
+- CLI Tools
+
+npm:
+https://www.npmjs.com/package/packsentry
+
+GitHub:
+https://github.com/ManakRaj-7/packsentry
+
+---
+
+### CampusSphere – AI-Powered Student Hub
+
+A modern full-stack platform built for students, combining academic assistance, placement preparation, wellness tracking, and campus collaboration in a single application.
+
+Features:
+
+- AI Academic Copilot
+- Study notes and summaries
+- Placement preparation tools
+- Wellness tracking
+- Course management
+- Campus community platform
+- Real-time communication
+- OpenRouter-powered AI services
+
+Technologies:
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+- OpenRouter
+- Tailwind CSS
+
+Live:
+https://campussphere-student-hub.vercel.app
+
+GitHub:
+https://github.com/ManakRaj-7/campussphere-student-hub
+
+---
+
+### TalentFlow – Job Application & Hiring Management System
+
+A backend-focused hiring platform built with Spring Boot for managing job postings, applications, and recruitment workflows.
+
+Technologies:
+
+- Spring Boot
+- Java
+- MySQL
+- JWT Authentication
+- Hibernate
+- Swagger
+
+GitHub:
+https://github.com/ManakRaj-7/TalentFlow_Job-Application-Hiring-Management-System
+
+---
+
+### AegisCore – Identity Authentication & Access Control
+
+A production-minded authentication and access-control backend built with Go.
+
+Features:
+
+- JWT Authentication
+- Refresh Token Rotation
+- Role-Based Access Control (RBAC)
+- Redis Session Management
+- PostgreSQL Persistence
+
+Technologies:
+
+- Golang
+- Gin
+- PostgreSQL
+- Redis
+- JWT
+- bcrypt
+
+GitHub:
+https://github.com/ManakRaj-7/AegisCore_Identity-Authentication-and-Access-Control-System
+
+---
+
+### AnonVerse
+
+A full-stack platform for anonymous poetry sharing with pen-name profiles and real-time interactions.
+
+Technologies:
+
+- Next.js
+- TypeScript
+- Supabase
+- Tailwind CSS
+
+Live:
+https://anon-verse-wl1l.vercel.app
+
+GitHub:
+https://github.com/ManakRaj-7/AnonVerse
+
+---
+
+### Reality Weaver – Parallel Reality Generator
+
+A full-stack application that explores alternate timelines through generated historical and technological "What If?" scenarios.
+
+Technologies:
+
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+
+Live:
+https://timeline-seed.lovable.app
+
+GitHub:
+https://github.com/ManakRaj-7/reality-weaver
+
+---
+
+### Early Diabetes Detection Using Machine Learning (FUGA-Net)
+
+A machine learning research project comparing classical ML algorithms with a custom deep learning architecture for diabetes prediction using a large-scale healthcare dataset.
+
+Technologies:
+
+- Python
+- Machine Learning
+- Deep Learning
+- PyTorch
+
+GitHub:
+https://github.com/ManakRaj-7/early-diabetes-detection-ml-comparison
+
+## Project Structure
+
+```text
+myPortfolio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── profileMine.jpg
+└── README.md
+```
+
+## Contact
+
+Email:
+7manakraj@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/manak-raj-427306282
+
+GitHub:
+https://github.com/ManakRaj-7
+
+LeetCode:
+https://leetcode.com/u/7manakraj/
+
+X:
+https://x.com/manak_raj28006
+
+## License
+
+MIT License
